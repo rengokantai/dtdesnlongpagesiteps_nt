@@ -53,3 +53,13 @@ image->canvas size (a c c)
 ####2:30
 when paste a new image, you may not see it,so use magic wand tool to show it.
 
+###9 export assets
+workflow:select a asset, ctrl a ctrl c, ctrl n to open a new file, ctrl v to paste(toggle the background layer)
+####02:00 save for web
+a s c s  choose PNG-24
+
+####04:00
+s c c -> copy merged  
+when export a large background image, use jpeg istead of png24
+
+
