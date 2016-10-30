@@ -62,4 +62,19 @@ a s c s  choose PNG-24
 s c c -> copy merged  
 when export a large background image, use jpeg istead of png24
 
+###11
+this fix video tag issue in chrome?
+```
+<img style="height: 1px;width: 1px;position: fixed;" alt="">
+```
+###12
+```
+-webkit-backface-visibility:hidden;
+-webkit-transform:translateZ(0);
+```
 
+###13
+animate svg:  
+general rule:
+- create g tag to surrond the part you want to animate
+- create animation  
