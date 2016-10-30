@@ -38,4 +38,5 @@ select part of button, shift drag
 
 ###4
 ####02:16
+select all(ctrl a)
 edit->define pattern
