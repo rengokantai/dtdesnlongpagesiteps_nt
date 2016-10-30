@@ -31,3 +31,11 @@ first, in drop down menu, choose shape
 
 move vertex point:
 hold ctrl key to move.
+####11:50
+direct selection tool
+select part of button, shift drag
+
+
+###4
+####02:16
+edit->define pattern
