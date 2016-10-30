@@ -40,3 +40,16 @@ select part of button, shift drag
 ####02:16
 select all(ctrl a)
 edit->define pattern
+
+###7
+####09:58
+File->document setup->edit artboards(to cut out what you want)
+
+###8
+####00:30 change canvas size
+image->canvas size (a c c)
+
+
+####2:30
+when paste a new image, you may not see it,so use magic wand tool to show it.
+
